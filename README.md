@@ -6,11 +6,11 @@ Full Stack Developer
 
 • Keep it Simple •
 
-* 🌍  I'm based in Spain
+* 🌍  I'm from Spain
 * ✉️  You can contact me at [oliverfabian22@gmail.com](mailto:oliverfabian22@gmail.com)
-* 🧠  I'm learning PHP and JavaScript
-* 🤝  I'm open to collaborating on Projects
-* ⚡  I am Batman, Tell Everyone
+* 🧠  Learning PHP and JavaScript
+* 🤝  Open to collaborating on Projects
+* ⚡  Forget the risk and take the fall
 
 ### Skills
 
@@ -22,10 +22,6 @@ Full Stack Developer
 
 <p align="left"> <a href="https://www.github.com/ZiwiiDev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/oliver-fabian-stetcu-b24122196/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/ZiwiiDev"><img src="https://github-readme-stats.vercel.app/api?username=ZiwiiDev&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="ZiwiiDev's GitHub stats" /></a>
+### What i use
 
 <a href="https://github.com/ZiwiiDev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiwiiDev&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
