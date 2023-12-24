@@ -20,9 +20,34 @@ Full Stack Developer
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/ZiwiiDev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" target="_blank" rel="noreferrer"/> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" target="_blank" rel="noreferrer"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" target="_blank" rel="noreferrer"/> </picture> </a> <a href="https://www.linkedin.com/in/oliver-fabian-stetcu-b24122196/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" target="_blank" rel="noreferrer"/> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" target="_blank" rel="noreferrer"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" target="_blank" rel="noreferrer"/> </picture> </a>
-<a href="https://www.twitch.tv/ziuenn" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" target="_blank" rel="noreferrer"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" alt="Twitch" title="Twitch" target="_blank" rel="noreferrer"/> </picture> </a> <a href="https://www.youtube.com/@CreativeTones" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" target="_blank" rel="noreferrer"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube" target="_blank" rel="noreferrer"/> </picture> </a> <a href="https://discord.com/users/ziwii02" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" target="_blank" rel="noreferrer"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" target="_blank" rel="noreferrer"/> </picture> </a> <a href="http://www.instagram.com/oliveristhenamx" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" target="_blank" rel="noreferrer"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" title="Instagram"  target="_blank" rel="noreferrer"/> </picture> </a></p>
+<p align="left">
+  <a href="https://www.github.com/ZiwiiDev" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/oliver-fabian-stetcu-b24122196/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn"/>
+  </a>
+
+  <a href="https://www.twitch.tv/ziuenn" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" alt="Twitch" title="Twitch"/>
+  </a>
+
+  <a href="https://www.youtube.com/@CreativeTones" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube"/>
+  </a>
+
+  <a href="https://discord.com/users/ziwii02" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord"/>
+  </a>
+
+  <a href="http://www.instagram.com/oliveristhenamx" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" title="Instagram"/>
+  </a>
+</p>
 
 ### What i use
 
-<a href="https://github.com/ZiwiiDev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiwiiDev&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/ZiwiiDev" align="left"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiwiiDev&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+</a>
