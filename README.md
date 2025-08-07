@@ -8,7 +8,6 @@ Full Stack Developer
 
 * 🌍  I'm from Spain
 * ✉️  You can contact me at [oliverfabian22@gmail.com](mailto:oliverfabian22@gmail.com)
-* 🧠  Learning NextJS, ReactJS, ThreeJS and Tailwind
 * 🤝  Open to collaborating on Projects
 * ⚡  Forget the risk and take the fall
 
