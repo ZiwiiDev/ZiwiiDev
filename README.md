@@ -73,27 +73,39 @@
 
 <div align="center">
 
-### ⚡ Technology Ecosystem
+## ⚡ Technology Stack
 
-#### **Core Languages**
+<details open>
+<summary><b>💻 Languages</b></summary>
+<br>
 <p>
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,java,python,php,dart&theme=dark" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,java,python,php,dart&theme=dark" />
 </p>
+</details>
 
-#### **Frontend Arsenal**
+<details open>
+<summary><b>🎨 Frontend</b></summary>
+<br>
 <p>
-  <img src="https://skillicons.dev/icons?i=react,flutter,html,css,tailwind,bootstrap&theme=dark" alt="Frontend Technologies" />
+  <img src="https://skillicons.dev/icons?i=react,flutter,html,css,tailwind,bootstrap&theme=dark" />
 </p>
+</details>
 
-#### **Backend & Data**
+<details open>
+<summary><b>⚙️ Backend & Databases</b></summary>
+<br>
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,redis,firebase&theme=dark" alt="Backend & Databases" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,redis,firebase&theme=dark" />
 </p>
+</details>
 
-#### **DevOps & Tools**
+<details open>
+<summary><b>🛠️ DevOps & Tools</b></summary>
+<br>
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,postman,figma&theme=dark" alt="Tools & DevOps" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,postman,figma&theme=dark" />
 </p>
+</details>
 
 </div>
 
@@ -107,15 +119,20 @@
 
 <div align="center">
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZiwiiDev&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=BD93F9&icon_color=BD93F9&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ZiwiiDev&theme=dracula&hide_border=true&background=0D1117&ring=BD93F9&fire=BD93F9&currStreakLabel=BD93F9" alt="GitHub Streak" />
-<img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiwiiDev&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=BD93F9&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
-
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZiwiiDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5&count_private=true&include_all_commits=true&rank_icon=github" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ZiwiiDev&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=F7768E&currStreakLabel=BB9AF7" />
 
 <br>
+
+<img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=ZiwiiDev&bg_color=0D1117&color=7AA2F7&line=BB9AF7&point=F7768E&area=true&hide_border=true" />
+
+<br>
+
+<img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiwiiDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&text_color=C0CAF5&langs_count=10" />
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
