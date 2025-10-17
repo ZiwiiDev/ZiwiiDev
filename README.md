@@ -1,109 +1,57 @@
-<div align="center">
-  <img src="./assets/banner-code-3d.png" width="100%" alt="Code Banner"/>
-</div>
-
 <p align="center">
-  <img src="./assets/logo.png" width="100" alt="ZD"/>
+  <img src="./assets/logo.png" width="120" alt="ZD"/>
 </p>
+
+<br>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=650&height=80&lines=Oliver+Fabián+Stetcu;Full+Stack+Developer;Crafting+Digital+Experiences" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Oliver+Fabi%C3%A1n+Stetcu;Full+Stack+Developer;Crafting+Digital+Experiences" alt="Typing SVG" />
+  </a>
 </h1>
 
-<p align="center">
-  <a href="mailto:oliverfabian22@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-Contact-BD93F9?style=for-the-badge&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/oliver-fabian-stetcu">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-BD93F9?style=for-the-badge&logoColor=white"/>
-  </a>
-  <a href="https://github.com/ZiwiiDev">
-    <img src="https://img.shields.io/github/followers/ZiwiiDev?label=Follow&style=for-the-badge&color=BD93F9&labelColor=282A36"/>
-  </a>
-</p>
+<br>
+
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/Email-oliverfabian22%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oliverfabian22@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Oliver_Stetcu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oliver-fabian-stetcu)
+[![GitHub](https://img.shields.io/github/followers/ZiwiiDev?label=Follow&style=for-the-badge&logo=github&color=181717)](https://github.com/ZiwiiDev)
+[![Discord](https://img.shields.io/badge/Discord-ziwii02-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ziwii02)
+
+</div>
 
 <br>
 
 <div align="center">
 
-### 🌐 España • Full Stack Developer • Open Source Enthusiast
+## 🌟 About Me
 
-interface Developer {
-  code: string[];
-  expertise: string[];
-  mindset: string;
-}
+**España 🇪🇸 • Full Stack Developer • Open Source Enthusiast**
 
-const oliver: Developer = {
-  code: ["Java", "JavaScript", "TypeScript", "PHP", "Dart", "Python"],
-  expertise: ["Web Development", "Mobile Apps", "System Architecture"],
-  mindset: "Forget the risk and take the fall"
+</div>
+
+const oliver = {
+  location: "España 🇪🇸",
+  role: "Full Stack Developer",
+  languages: ["Java", "JavaScript", "TypeScript", "PHP", "Dart", "Python"],
+  specialties: ["Web Development", "Mobile Apps", "System Architecture"],
+  philosophy: "Forget the risk and take the fall"
 };
 
-
-</div>
-
 <br>
 
 ---
 
 <br>
 
-<h2 align="center">⚡ Tech Arsenal</h2>
-
 <div align="center">
 
-**Languages**
+## 📊 Weekly Development Breakdown
 
-<img src="https://skillicons.dev/icons?i=java,js,ts,php,python,dart,cpp&theme=dark" />
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-**Frontend & Design**
-
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,flutter,react&theme=dark" />
-
-**Backend & Database**
-
-<img src="https://skillicons.dev/icons?i=nodejs,mysql,firebase,oracle,mongodb,redis&theme=dark" />
-
-**Tools & DevOps**
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma&theme=dark" />
-
-</div>
-
-<br>
-
----
-
-<br>
-
-<h2 align="center">📊 GitHub Performance</h2>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ZiwiiDev&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=BD93F9&icon_color=BD93F9&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ZiwiiDev&theme=dracula&hide_border=true&background=0D1117&ring=BD93F9&fire=BD93F9&currStreakLabel=BD93F9" alt="GitHub Streak"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiwiiDev&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=BD93F9&text_color=FFFFFF&langs_count=8"/>
-</div>
-
-<br>
-
----
-
-<br>
-
-<h2 align="center">🐍 Contribution Graph</h2>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZiwiiDev/ZiwiiDev/output/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZiwiiDev/ZiwiiDev/output/snake-light.svg">
-    <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/ZiwiiDev/ZiwiiDev/output/snake.svg" width="100%">
-  </picture>
 </div>
 
 <br>
@@ -114,18 +62,99 @@ const oliver: Developer = {
 
 <div align="center">
 
-### 💭 Philosophy
+## ⚡ Tech Stack
 
-**"Keep it Simple"**
+### Languages & Frameworks
 
-*Building elegant solutions, one commit at a time*
+<img src="https://skillicons.dev/icons?i=java,js,ts,php,python,dart&theme=dark" alt="Languages" />
+
+### Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,flutter&theme=dark" alt="Frontend" />
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,mysql,firebase,oracle,mongodb,redis&theme=dark" alt="Backend" />
+
+### Tools & DevOps
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma&theme=dark" alt="Tools" />
+
+</div>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=ZiwiiDev&style=for-the-badge&color=BD93F9&label=Profile+Views" alt="Profile Views"/>
+---
+
+<br>
+
+<div align="center">
+
+## 📊 GitHub Statistics
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZiwiiDev&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=BD93F9&icon_color=BD93F9&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ZiwiiDev&theme=dracula&hide_border=true&background=0D1117&ring=BD93F9&fire=BD93F9&currStreakLabel=BD93F9" alt="GitHub Streak" />
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24&height=120&section=footer" />
+<img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiwiiDev&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=BD93F9&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
 
+</div>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZiwiiDev/ZiwiiDev/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZiwiiDev/ZiwiiDev/output/snake-light.svg" />
+  <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/ZiwiiDev/ZiwiiDev/output/snake.svg" width="100%" />
+</picture>
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+## 🎨 3D Contribution Graph
+
+![3D Contribution](./profile-3d-contrib/profile-night-rainbow.svg)
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+## 💭 Philosophy
+
+> **"Keep it Simple"**
+> 
+> *Building elegant solutions, one commit at a time*
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ZiwiiDev&style=for-the-badge&color=BD93F9&label=PROFILE+VIEWS)
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24&height=120&section=footer" width="100%" />
 </div>
