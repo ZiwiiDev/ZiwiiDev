@@ -1,0 +1,27 @@
+name: Update README Stats
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"  # Cada 12 horas
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Update README with latest data
+        run: |
+          echo "README stats updated at $(date)" >> update.log
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git diff-index --quiet HEAD || git commit -m "🤖 Auto-update README stats"
+          git push
