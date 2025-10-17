@@ -1,0 +1,21 @@
+name: Profile View Counter
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-counter:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Update view counter
+        run: |
+          echo "Profile views updated at $(date)" >> views.log
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git diff-index --quiet HEAD || git commit -m "📊 Update profile views"
+          git push
