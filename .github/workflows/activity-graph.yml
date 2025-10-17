@@ -1,0 +1,21 @@
+name: Update Activity Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Diariamente a medianoche
+  workflow_dispatch:
+
+jobs:
+  update-graph:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Generate Activity Graph
+        uses: Ashutosh00710/github-readme-activity-graph@v1.3.0
+        with:
+          username: ${{ github.repository_owner }}
+          theme: dracula
+          hide_border: true
+          area: true
