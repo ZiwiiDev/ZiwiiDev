@@ -79,7 +79,7 @@
 <summary><b>💻 Languages</b></summary>
 <br>
 <p>
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,java,python,php,dart&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=javascript,java,swift,kotlin,python,php&theme=dark" />
 </p>
 </details>
 
@@ -95,7 +95,7 @@
 <summary><b>⚙️ Backend & Databases</b></summary>
 <br>
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,redis,firebase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,postgresql,redis,firebase&theme=dark" />
 </p>
 </details>
 
@@ -103,7 +103,7 @@
 <summary><b>🛠️ DevOps & Tools</b></summary>
 <br>
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,postman,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,figma&theme=dark" />
 </p>
 </details>
 
