@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:2d3748,100:1a1b27&height=280&section=header&text=Oliver%20Stetcu%20Stepanov&fontSize=65&fontColor=E2E8F0&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=20&descAlignY=52&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:2d3748,100:1a1b27&height=280&section=header&text=Oliver%20Stetcu%20Stepanov&fontSize=65&fontColor=E2E8F0&animation=fadeIn&fontAlignY=35&desc=React%20(Next.js)%20Developer&descSize=20&descAlignY=52&descAlign=50" />
 </div>
 
 <!-- Badges de contacto elegantes -->
