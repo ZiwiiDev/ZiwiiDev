@@ -121,12 +121,9 @@
 
 ## 📊 GitHub Analytics
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZiwiiDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5&count_private=true&include_all_commits=true&rank_icon=github" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ZiwiiDev&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=F7768E&currStreakLabel=BB9AF7" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ZiwiiDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5&count_private=true&include_all_commits=true&rank_icon=github" />
 
-<br>
-
-<img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=ZiwiiDev&bg_color=0D1117&color=7AA2F7&line=BB9AF7&point=F7768E&area=true&hide_border=true" />
+<img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=ZiwiiDev&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=F7768E&currStreakLabel=BB9AF7" />
 
 <br>
 
