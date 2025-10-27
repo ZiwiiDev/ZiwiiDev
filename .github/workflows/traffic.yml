@@ -1,0 +1,21 @@
+name: Traffic Stats
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  traffic:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Update traffic stats
+        uses: yi-Xu-0100/traffic-to-badge@v1.5.0
+        with:
+          my_token: ${{ secrets.GH_TOKEN }}
+          static_list: ZiwiiDev/ZiwiiDev
+          traffic_branch: traffic
+          views_color: BD93F9
+          clones_color: BD93F9
